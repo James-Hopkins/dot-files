@@ -3,6 +3,7 @@
 .bashrc
 .cache/
 .config/
+.git-credentials
 .gnupg/
 .local/
 .mozilla/
