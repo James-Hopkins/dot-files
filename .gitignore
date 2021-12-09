@@ -12,7 +12,7 @@
 .profile
 .shell.pre-oh-my-zsh
 .sudo_as_admin_successful
-.zcompdump
+.zcompdum*
 .zsh_history
 mytoken.txt
 powerlevel10k/
